@@ -1,0 +1,2 @@
+As linhas 26 e 59 do WebService seguem comentadas porem funcionais.
+A linha 8 do App está passando uma url ficticia para testes.
