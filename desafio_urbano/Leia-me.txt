@@ -1,2 +1,2 @@
-As linhas 26 e 59 do WebService seguem comentadas porem funcionais.
-A linha 8 do App est· passando uma url ficticia para testes.
+As linhas 26 e 59 do WebService seguem comentadas pela ausencia de um bd porem funcionais.
+A linha 8 do App est√° passando uma url ficticia para testes.
